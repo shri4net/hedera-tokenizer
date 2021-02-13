@@ -1,0 +1,29 @@
+{
+    "fields":[
+        {    
+            "id" : "vendor",
+            "label" : "Vendor",
+            "placeholder": "Enter Vendor here"
+        },
+        {    
+            "id" : "model",
+            "label" : "Model",
+            "placeholder": "Enter Model here"
+        },
+        {    
+            "id" : "serialNumber",
+            "label" : "Serial Number",
+            "placeholder": "Enter Serial Number here"
+        },
+        {    
+            "id" : "dateOfManufacturing",
+            "label" : "Date of Manufacturing",
+            "placeholder": "Enter Date of Manufacturing here"
+        },
+        {    
+            "id" : "fileHash",
+            "label" : "File Hash of IT Hardware image",
+            "placeholder": "Enter Hash here"
+        }
+    ]
+}

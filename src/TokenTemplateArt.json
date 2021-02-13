@@ -1,0 +1,19 @@
+{
+    "fields":[
+        {    
+            "id" : "dateOfCreation",
+            "label" : "Date of Creation",
+            "placeholder": ""
+        },
+        {    
+            "id" : "titleOfArt",
+            "label" : "Title of Art",
+            "placeholder": ""
+        },
+        {    
+            "id" : "fileHash",
+            "label" : "File Hash of Art image",
+            "placeholder": ""
+        }
+    ]
+}

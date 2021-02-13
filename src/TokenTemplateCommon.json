@@ -1,0 +1,14 @@
+{
+    "fields":[
+        {    
+            "id" : "uniqueId",
+            "label" : "Unique Id",
+            "placeholder": "Enter unique Id here"
+        },
+        {    
+            "id" : "hederaId",
+            "label" : "Hedera Id",
+            "placeholder": "Hedera Id comes here"
+        }
+    ]
+}

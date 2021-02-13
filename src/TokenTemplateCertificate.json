@@ -1,0 +1,29 @@
+{
+    "fields":[
+        {    
+            "id" : "issuedTo",
+            "label" : "Issued To",
+            "placeholder": "Enter Issued To here"
+        },
+        {    
+            "id" : "issuer",
+            "label" : "Issuer",
+            "placeholder": "Enter Issuer here"
+        },
+        {    
+            "id" : "dateOfIssue",
+            "label" : "Date of Issue",
+            "placeholder": "Enter Date of Issue here"
+        },
+        {    
+            "id" : "titleOfCertificate",
+            "label" : "Title of Certificate",
+            "placeholder": "Enter Title of Certificate here"
+        },
+        {    
+            "id" : "fileHash",
+            "label" : "File Hash of Certificate",
+            "placeholder": "Enter File Hash of Certificate PDF here"
+        }
+    ]
+}

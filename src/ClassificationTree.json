@@ -1,0 +1,87 @@
+{
+    "id": "1",
+    "name": "Thing",
+    "icon": "sun",
+    "type": "folder",
+    "children": [
+        {
+            "id": "1",
+            "name": "Physical",
+            "icon": "folder",
+            "type": "folder",
+            "children": [
+                {
+                    "id": "1",
+                    "name": "Real Estate",
+                    "desc": "Buildings etc.",
+                    "icon": "building",
+                    "type": "file"
+                },
+                {
+                    "id": "2",
+                    "name": "Art",
+                    "desc": "Fine arts etc.",
+                    "icon": "paint brush",
+                    "type": "file"
+                },
+                {
+                    "id": "3",
+                    "name": "IT Hardware",
+                    "desc": "Computer etc.",
+                    "icon": "computer",
+                    "type": "file"
+                },
+                {
+                    "id": "4",
+                    "name": "Certificate",
+                    "desc": "Cetrificate etc.",
+                    "icon": "certificate",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Virtual/Digital",
+            "icon": "folder",
+            "type": "folder",
+            "children": [
+                {
+                    "id": "1",
+                    "name": "Intellectual Property",
+                    "desc": "IP etc.",
+                    "icon": "bookmark",
+                    "type": "file"
+                },
+                {
+                    "id": "2",
+                    "name": "Data",
+                    "desc": "Data etc.",
+                    "icon": "database",
+                    "type": "file"
+                },
+                {
+                    "id": "3",
+                    "name": "IT Software",
+                    "desc": "Software etc.",
+                    "icon": "drivers license",
+                    "type": "file"
+                },
+                {
+                    "id": "4",
+                    "name": "Securities",
+                    "desc": "Securities etc.",
+                    "icon": "circle",
+                    "type": "file"
+                },               
+                {
+                    "id": "5",
+                    "name": "Insurance",
+                    "desc": "Insurance etc.",
+                    "icon": "circle",
+                    "type": "file"
+                }               
+            ]
+        }
+    ]
+}
